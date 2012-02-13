@@ -90,6 +90,6 @@ PLATFORMS
 
 DEPENDENCIES
   jeweler
-  rails (~> 3.0.1)
+  rails (>= 3.0.1)
   rspec-rails
   sqlite3-ruby
